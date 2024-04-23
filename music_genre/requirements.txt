@@ -1,0 +1,8 @@
+librosa==0.7.2
+resampy==0.3.1
+streamlit
+joblib
+numpy
+pandas
+scipy
+pydub
